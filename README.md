@@ -102,41 +102,49 @@ helped her complete the task easily in a comfortable environment.
  │
  
  ▼ 
+ 
  Open Food App 
  
  │ 
  
  ▼ 
+ 
  Search Restaurant 
  
  │
  
  ▼ 
+ 
  Select Food Item 
  
  │ 
  
  ▼ 
+ 
  Add Item to Cart 
  
  │ 
  
  ▼ 
+ 
  Proceed to Checkout 
  
  │ 
  
- ▼ 
+ ▼
+ 
  Confirm Delivery Address 
  
  │ 
  
  ▼ 
+ 
  Select Payment Method 
  
  │ 
  
  ▼ 
+ 
  ◇ Payment Successful? 
  
  /            \ 
@@ -146,6 +154,7 @@ helped her complete the task easily in a comfortable environment.
  │                │
  
  ▼               ▼ 
+ 
  Order Confirmed    Try Again 
  
  │                        │ 
