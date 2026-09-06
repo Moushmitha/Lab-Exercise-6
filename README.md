@@ -95,54 +95,67 @@ quickly without calling the hospital or standing in a long queue. The simple pro
 helped her complete the task easily in a comfortable environment. 
 
  5) Flow Diagrams / Flow Mapping
- Task: Ordering Food Using a Mobile App 
+ Task: Ordering Food Using a Mobile App
+ 
  ◯ START
 
- │ 
+ │
+ 
  ▼ 
  Open Food App 
  
  │ 
+ 
  ▼ 
  Search Restaurant 
  
- │ 
+ │
+ 
  ▼ 
  Select Food Item 
  
  │ 
+ 
  ▼ 
  Add Item to Cart 
  
  │ 
+ 
  ▼ 
  Proceed to Checkout 
  
  │ 
+ 
  ▼ 
  Confirm Delivery Address 
  
  │ 
+ 
  ▼ 
  Select Payment Method 
  
  │ 
+ 
  ▼ 
  ◇ Payment Successful? 
  
  /            \ 
+ 
  Yes             No 
  
- │                │ 
+ │                │
+ 
  ▼               ▼ 
  Order Confirmed    Try Again 
  
  │                        │ 
+ 
  ▼                       └──────► Select Payment 
  
  Receive Order 
  
  │ 
+ 
  ▼ 
  
  ◯ END
